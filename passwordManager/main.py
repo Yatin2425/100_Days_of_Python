@@ -1,13 +1,32 @@
 from tkinter import *
 import random
+import json
+from tkinter import messagebox
 
 #functions
+file_path = "/Users/yatintyagi/Desktop/passwords/passwords.JSON"
 def save():
     email=Email_entry.get()
     website=website_entry.get()
     passs=Password_entry.get()
-    with open("/Users/yatintyagi/Desktop/passwords/passwords.txt", "a") as f:
-        f.write(f"website : {website} || email : {email}   || password : {passs} ||\n ")
+    new_data = {
+        website: {
+            "email": email , 
+            "password": passs
+        }
+    }
+    
+    try:
+        with open(file_path, "r") as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        with open(file_path, "w") as f:
+            json.dump(new_data, f, indent=4)
+    else:
+        data.update(new_data)
+        with open(file_path, "w") as f:
+            json.dump(data, f, indent=4)
+        
     Email_entry.delete(0, 'end')
     website_entry.delete(0, 'end')
     Password_entry.delete(0, 'end')
@@ -41,6 +60,18 @@ def generate():
         password += char
     Password_entry.insert(0,password)
 
+def searchPwd():
+    website = website_entry.get()
+    with open(file_path,"r") as f:
+        data=json.load(f)
+        if website in data:
+            email = data[website]["email"]
+            passs = data[website]["password"]
+            messagebox.showinfo(title = website , message = f"Email = {email} \n Password = {passs}")
+        
+    
+        
+
 
     
 
@@ -66,6 +97,8 @@ Generate = Button(text="Generate password" , width= 25 , command=generate)
 Generate.grid(column=2, row=3)
 add = Button(text="Add" ,width=36 , command= save)
 add.grid(column=1, row=4 ,columnspan= 2)
+search_button = Button(text="Search" , width=25 , command= searchPwd)
+search_button.grid(column=2 , row=1)
 
 #text Field
 website_entry = Entry(width=35)
