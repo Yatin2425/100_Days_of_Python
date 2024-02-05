@@ -8,9 +8,9 @@ GREEN = "#9bdeac"
 YELLOW = "#f7f5dd"
 GREY="#808080"
 FONT_NAME = "Courier"
-WORK_MIN = .05
-SHORT_BREAK_MIN = .05
-LONG_BREAK_MIN = .05
+WORK_MIN = 40
+SHORT_BREAK_MIN = 20
+LONG_BREAK_MIN = 30
 reps=0
 my_timer=None 
 

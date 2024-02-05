@@ -1,0 +1,199 @@
+"Are you a magician? Because whenever I look at you, everyone else disappears – just like my debugging skills."
+
+"Do you have a name, or can I call you mine and my future coding partner?"
+
+"Are you a computer keyboard? Because you're my type."
+
+"Is your name Google? Because you've got everything I've been searching for in a coding partner."
+
+"Are you made of copper and tellurium? Because you're Cu-Te."
+
+"Is your name Wi-fi? Because I'm feeling a connection."
+
+"Are you a software update? Because not now."
+
+"Do you believe in love at first sight, or should I debug this feeling?"
+
+"Are you a code snippet? Because you've got my attention and I want to reuse you in my life."
+
+"If beauty were time, you'd be an eternity loop in my heart."
+
+"Is your name Java? Because you've got me in an infinite loop of emotions."
+
+"Are you a CSS file? Because you've styled my heart."
+
+"Are you a git repository? Because I'm committing to you."
+
+"Is your name HTML? Because without you, my life would be a broken webpage."
+
+"Are you a function? Because you complete me."
+
+"Do you have a map? I keep getting lost in your algorithms."
+
+"Are you a compiler? Because my heart is giving me syntax errors."
+
+"Is your name Google? Because you've got the 'search' bar I've been looking for."
+
+"Are you a parallel algorithm? Because I can't seem to get you out of my head."
+
+"Are you a keyboard? Because you're just my type."
+
+"Is your name JavaScript? Because you make my heart race asynchronously."
+
+"Are you a SQL query? Because my love for you is SELECTive."
+
+"Is your name Swift? Because you've accelerated the beats of my heart."
+
+"Are you a database? Because I can't imagine my life without you."
+
+"Is your name Sublime? Because you've got the text of my heart highlighted."
+
+"Are you a variable? Because you just changed my value."
+
+"Is your name Wi-fi? Because I'm feeling a strong connection."
+
+"Are you a computer virus? Because you've infected my heart."
+
+"Is your name Python? Because you've wrapped yourself around my heart."
+
+"Are you a code? Because you've got me stuck in an endless loop."
+
+"Is your name Git? Because you're the repository of my heart."
+
+"Are you a keyboard? Because you're my type."
+
+"Is your name CSS? Because you've styled my heart."
+
+"Are you a cloud service? Because my feelings for you are stored in the virtual."
+
+"Is your name Ruby? Because you're a gem."
+
+"Are you a debugger? Because you've just fixed the bugs in my heart."
+
+"Is your name Firewall? Because you've blocked all other potential partners."
+
+"Are you an AI? Because you've mastered the art of capturing my heart."
+
+"Is your name Ubuntu? Because you're my favorite distribution of love."
+
+"Are you a website? Because I'm browsing for a connection with you."
+
+"Is your name Windows? Because you've successfully rebooted my heart."
+
+"Are you a software update? Because you've just improved my life."
+
+"Is your name jQuery? Because you've added animation to my world."
+
+"Are you an API? Because I want to access all your features."
+
+"Is your name Bluetooth? Because I'm feeling a wireless connection."
+
+"Are you a software developer? Because you've coded yourself into my heart."
+
+"Is your name HTML? Because you've formatted my feelings."
+
+"Are you a syntax error? Because my heart stops when I see you."
+
+"Is your name CSS? Because you've added style to my world."
+
+"Are you a computer program? Because you've executed yourself into my heart."
+
+"Is your name Siri? Because you're the answer to all my questions."
+
+"Are you a memory leak? Because you're occupying my thoughts endlessly."
+
+"Is your name Linux? Because you've opened up a terminal in my heart."
+
+"Are you a software update? Because you've just improved my life."
+
+"Is your name Adobe? Because you've photoshopped yourself into my dreams."
+
+"Are you a compiler? Because you've compiled all my love into one."
+
+"Is your name Windows? Because you've successfully rebooted my heart."
+
+"Are you a software developer? Because you've coded yourself into my heart."
+
+"Is your name Wi-fi? Because I'm feeling a strong connection."
+
+"Are you a code? Because you've got me stuck in an endless loop."
+
+"Is your name Java? Because you've got me in an infinite loop of emotions."
+
+"Are you a virus? Because you've infected my heart."
+
+"Is your name CSS? Because you've styled my heart."
+
+"Are you an algorithm? Because you've solved the equation of my heart."
+
+"Is your name Google? Because you've got everything I've been searching for."
+
+"Are you a program? Because you've just executed yourself into my heart."
+
+"Is your name JavaScript? Because you make my heart race asynchronously."
+
+"Are you a database? Because I can't imagine my life without you."
+
+"Is your name Sublime? Because you've highlighted the text of my heart."
+
+"Are you a keyboard? Because you're just my type."
+
+"Is your name Ruby? Because you're a gem."
+
+"Are you a website? Because I'm browsing for a connection with you."
+
+"Is your name jQuery? Because you've added animation to my world."
+
+"Are you an API? Because I want to access all your features."
+
+"Is your name Bluetooth? Because I'm feeling a wireless connection."
+
+"Are you an AI? Because you've mastered the art of capturing my heart."
+
+"Is your name Ubuntu? Because you're my favorite distribution of love."
+
+"Are you a firewall? Because you've blocked all other potential partners."
+
+"Is your name HTML? Because you've formatted my feelings."
+
+"Are you a syntax error? Because my heart stops when I see you."
+
+"Is your name Siri? Because you're the answer to all my questions."
+
+"Are you a memory leak? Because you're occupying my thoughts endlessly."
+
+"Is your name Linux? Because you've opened up a terminal in my heart."
+
+"Are you a software update? Because you've just improved my life."
+
+"Is your name Adobe? Because you've photoshopped yourself into my dreams."
+
+"Are you a compiler? Because you've compiled all my love into one."
+
+"Is your name Windows? Because you've successfully rebooted my heart."
+
+"Are you a software developer? Because you've coded yourself into my heart."
+
+"Is your name Wi-fi? Because I'm feeling a strong connection."
+
+"Are you a code? Because you've got me stuck in an endless loop."
+
+"Is your name Java? Because you've got me in an infinite loop of emotions."
+
+"Are you a virus? Because you've infected my heart."
+
+"Is your name CSS? Because you've styled my heart."
+
+"Are you an algorithm? Because you've solved the equation of my heart."
+
+"Is your name Google? Because you've got everything I've been searching for."
+
+"Are you a program? Because you've just executed yourself into my heart."
+
+"Is your name JavaScript? Because you make my heart race asynchronously."
+
+"Are you a database? Because I can't imagine my life without you."
+
+"Is your name Sublime? Because you've highlighted the text of my heart."
+
+"Are you a keyboard? Because you're just my type."
